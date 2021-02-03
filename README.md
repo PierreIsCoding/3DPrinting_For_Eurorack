@@ -23,7 +23,7 @@ The 4HP and 8HP Panels are designed for general purpose usage. In the back of th
 ## Bonus part ;)
 Knob for knurled 6mm shafts
 
-<imgsrc="https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/Small_Knob.PNG" width="200" />
+<img src="https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/Small_Knob.PNG" width="200" />
 
 
 
