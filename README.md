@@ -2,7 +2,7 @@
 This project contains STL files for printing usefull parts for your (Eurorack) Modular.
 
 
-## Photos
+## Images
 ![Image](https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/Rail_2021.PNG)
 ![Image](https://github.com/PierreIsCoding/3DPrinting_For_Eurorack/blob/main/images/4HP_Panel.PNG)
 ![Image](https://github.com/PierreIsCoding/3DPrinting_For_Eurorack/blob/main/images/4HP_PCB_Mount.PNG)
