@@ -8,7 +8,7 @@ The Rails file will give you a 3d printable rails for your Eurorack case. Instea
 <img src="https://github.com/PierreIsCoding/3DPrinting_For_Eurorack/blob/main/images/20210203_183918.jpg" width="400" />
 <img src="https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/Rail_2021.PNG" width="400" />
 
-# Panels
+## Panels
 The 4HP and 8HP Panels are designed for general purpose usage. In the back of the panel a grid is implemented so you can easily drill holes for pots and jacks in a orderly fashion. Also check out the pcb mounting parts. These need to be glued together with the panel. A pcb can be screwed in with M2 wood screws. See example below
 
 <img src="https://github.com/PierreIsCoding/3DPrinting_For_Eurorack/blob/main/images/20210203_214306.jpg" width="400" /> <img src="https://github.com/PierreIsCoding/3DPrinting_For_Eurorack/blob/main/images/20210203_214342.jpg" width="400" />
@@ -16,14 +16,13 @@ The 4HP and 8HP Panels are designed for general purpose usage. In the back of th
 
 <img src="https://github.com/PierreIsCoding/3DPrinting_For_Eurorack/blob/main/images/4HP_Panel.PNG" width="200" /><img src="https://github.com/PierreIsCoding/3DPrinting_For_Eurorack/blob/main/images/4HP_PCB_Mount.PNG" width="200" />
 
+### 8HP
 <img src="https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/8HP_Panel.PNG" width="200" /><img src="https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/8HP_PCB_Panel_Mount.PNG" width="200" />
-
-
 
 # Bonus part ;)
 Knob for knurled 6mm shafts
 
-src="https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/Small_Knob.PNG" width="200" />
+<imgsrc="https://raw.githubusercontent.com/PierreIsCoding/3DPrinting_For_Eurorack/main/images/Small_Knob.PNG" width="200" />
 
 
 
